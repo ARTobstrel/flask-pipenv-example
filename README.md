@@ -1,4 +1,6 @@
 # Flask Pipenv Example
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffdhadzh%2Fflask-pipenv-example.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffdhadzh%2Fflask-pipenv-example?ref=badge_shield)
+
 
 Flask application using Pipenv and Docker.
 
@@ -53,3 +55,6 @@ Runs tests:
 ```shell
 $ pipenv run python -m pytest
 ```
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffdhadzh%2Fflask-pipenv-example.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffdhadzh%2Fflask-pipenv-example?ref=badge_large)
